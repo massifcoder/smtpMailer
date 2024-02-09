@@ -1,0 +1,1 @@
+# To compile: gcc main.c -o output -lssl -lcrypto
